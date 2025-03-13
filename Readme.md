@@ -1,1 +1,1 @@
-socket example
+rasberry pi socket
